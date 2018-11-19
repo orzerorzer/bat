@@ -1,3 +1,3 @@
 echo hello,world
 
-call %~dp0slave.bat
+call "%~dp0slave.bat"
